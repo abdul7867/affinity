@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "E:\\Affinity\\backend\\logs\\.d46ac181ac6664eb64e370e9c56b27b2dc50935a-audit.json",
+    "files": [
+        {
+            "date": 1781940189407,
+            "name": "E:\\Affinity\\backend\\logs\\error-2026-06-20.log",
+            "hash": "c73d08c0e6b8d8d32e5485d1e13d0a4796dc1471a557cd58318f7136eea70f13"
+        }
+    ],
+    "hashType": "sha256"
+}
